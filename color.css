@@ -1,0 +1,43 @@
+.Tab{
+    width: 50vw;
+    height: 50vh;
+}
+
+#FoodType{
+    background-color: aqua;
+}
+#BT{
+    background-color: aqua;
+}
+
+#FT{
+    background-color: aqua;
+}
+
+#food{
+    background-color: aqua;
+}
+.Ingredients, .calories{
+    background-color: blanchedalmond;
+}
+.Proteins, .Foodimages{
+    background-color: aquamarine;
+}
+.step{
+    background-color: red;
+    width: 80vw;
+}
+#step2{
+    background-color: burlywood;
+    width: 80vw;
+}
+.step1{
+    background-color: red;
+    width: 80vw;
+}
+img{
+    width: 50%;
+    height: 20%;
+}
+
+
